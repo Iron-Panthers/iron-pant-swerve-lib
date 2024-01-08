@@ -6,7 +6,7 @@
   "mavenUrls": [
     "https://jitpack.io"
   ],
-  "jsonUrl": "https://raw.githubusercontent.com/Iron-Panthers/iron-pant-swerve-lib/prod/build.gradle",
+  "jsonUrl": "https://raw.githubusercontent.com/Iron-Panthers/iron-pant-swerve-lib/prod/SdsSwerveLib.json",
   "javaDependencies": [
     {
       "groupId": "com.github.ironpanthers",
